@@ -4,7 +4,7 @@
 <p>2. So Little bit manage with Writing - I already tested by sharing 10+ Person they are saying  "Vivek This notes is easy to understand".</p>
 <p>3. Read each & every topic thoroughly.</p>
 <p>4. Then practice that topic on compiler like VS Code.</p>
-<p>5. Create an Image of that topic so that you can remember easily, Jump on new Topic.</p>
+<p>5. Create an Image of that topic so that you can remember easily, then jump on the new Topic.</p>
 <p>6. Must Search relevant exact definition of that topic you have just completed from Geeks for Geeks, W3 Schools, etc so that you can tell the same in Interview.</p>
 <p>7. If you'll face any problem search that topic on Internet or you can ping me on whatsapp I am just a message away from you --7667724608. You can mail me on compofriend@gmail.com whenever I'll free definitely I'll try to solve your queries.</p>
 <p>8. In the beneath table you can find each topic in serial manner.</p>
