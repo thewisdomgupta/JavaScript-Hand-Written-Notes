@@ -9,7 +9,7 @@
 <p>7. If you'll face any problem search that topic on Internet or you can ping me on whatsapp I am just a message away from you --7667724608. You can mail me on compofriend@gmail.com whenever I'll free definitely I'll try to solve your queries.</p>
 <p>8. In the beneath table you can find each topic in serial manner.</p>
 
-# Happy Learning & always try to help others. Best of Luck
+# Happy Learning & always try to help others. Best of Luck 👍👍
 
 
 <br>
@@ -244,10 +244,6 @@
   </tr>
   <tr>
     <td>55.</td>
-    <td>Splice Method</td>
-  </tr>
-  <tr>
-    <td>56.</td>
     <td>Splice Method</td>
   </tr>
   </table>
