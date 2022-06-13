@@ -15,31 +15,91 @@
 <br>
 <table>
   <tr>
-    <th>SI NO.</th>
+    <th>SI. NO.</th>
     <th>Topic Name</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td>Variable</td>
+    <td>1.</td>
+    <td>Variable Keyword</td>
   </tr>
   <tr>
-    <td>2</td>
-    <td>Function Declaration</td>
+    <td>2.</td>
+    <td>Let Keyword</td>
   </tr>
   <tr>
-    <td>3</td>
-    <td>Function Expression</td>
+    <td>3.</td>
+    <td>Constant Keyword</td>
   </tr>
   <tr>
-    <td>4</td>
-    <td>Arrow Function</td>
+    <td>4.</td>
+    <td>String Indexing</td>
   </tr>
   <tr>
-    <td>5</td>
-    <td>Loops</td>
+    <td>5.</td>
+    <td>Famous Strings Method</td>
   </tr>
   <tr>
-    <td>6</td>
-    <td>Comparison Operator</td>
+    <td>6.</td>
+    <td>String & Number Conversion</td>
+  </tr>
+  <tr>
+    <td>7.</td>
+    <td>String Concatenation</td>
+  </tr>
+  <tr>
+    <td>8.</td>
+    <td>String Template</td>
+  </tr>
+  <tr>
+    <td>9.</td>
+    <td>Undefined, Null, BigInt</td>
+  </tr>
+  <tr>
+    <td>10.</td>
+    <td>Comparison Opr & Boolean</td>
+  </tr>
+  <tr>
+    <td>11.</td>
+    <td>If-Else</td>
+  </tr>
+  <tr>
+    <td>12.</td>
+    <td>Ternary Opr</td>
+  </tr>
+  <tr>
+    <td>13.</td>
+    <td>Nested If-Else</td>
+  </tr>
+  <tr>
+    <td>14.</td>
+    <td>If-Else-If</td>
+  </tr>
+  <tr>
+    <td>15.</td>
+    <td>Switch Case</td>
+  </tr>
+  <tr>
+    <td>16.</td>
+    <td>While Loop</td>
+  </tr>
+  <tr>
+    <td>16.</td>
+    <td>For Loop</td>
+  </tr>
+  <tr>
+    <td>17.</td>
+    <td>Break/Continue</td>
+  </tr>
+  <tr>
+    <td>18.</td>
+    <td>do-While</td>
+  </tr>
+  <tr>
+    <td>19.</td>
+    <td>Array DS</td>
+  </tr>
+   <tr>
+    <td>20.</td>
+    <td>Array Opr - Push,Pop, Unshift, Shift</td>
   </tr>
   </table>
