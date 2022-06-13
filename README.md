@@ -102,4 +102,44 @@
     <td>20.</td>
     <td>Array Opr - Push,Pop, Unshift, Shift</td>
   </tr>
+  <tr>
+    <td>21.</td>
+    <td>Reference v/s Primitive</td>
+  </tr>
+  <tr>
+    <td>22.</td>
+    <td>Clone, Concat, Spread Opr</td>
+  </tr>
+  <tr>
+    <td>23.</td>
+    <td>For Loop in Array</td>
+  </tr>
+  <tr>
+    <td>24.</td>
+    <td>Role of Const in Array Creation</td>
+  </tr>
+  <tr>
+    <td>25.</td>
+    <td>While loop in Array</td>
+  </tr>
+  <tr>
+    <td>26.</td>
+    <td>For of loop in Array</td>
+  </tr>
+   <tr>
+    <td>27.</td>
+    <td>For in loop in Array</td>
+  </tr>
+  <tr>
+    <td>28.</td>
+    <td>Destructuring of Array</td>
+  </tr>
+  <tr>
+    <td>29.</td>
+    <td>Concept of Object</td>
+  </tr>
+  <tr>
+    <td>30.</td>
+    <td>Access Object by DOT, Bracket Notation</td>
+  </tr>
   </table>
