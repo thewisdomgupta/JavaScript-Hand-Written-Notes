@@ -1,5 +1,5 @@
 # JavaScript-Hand-Written-Notes
-
+<p>How to use this Notes?</p>
 
 <br>
 <table>
