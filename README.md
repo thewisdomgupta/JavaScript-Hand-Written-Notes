@@ -1,6 +1,6 @@
 # JavaScript-Hand-Written-Notes
 <p>How to use this Notes?</p>
-<p>1. This was my Self Preparation Notes I had no Idea during creating of this notes that I will share with other but you can see now I am sharing 😀</p>
+<p>1. This was my Self Prep Notes, I had no idea during creation of this notes that I'll share with other but you can see now I'm sharing 😀</p>
 <p>2. So Little bit manage with Writing - I already tested by sharing 10+ Person they are saying  "Vivek This notes is easy to understand".</p>
 <p>3. Read each & every topic thoroughly.</p>
 <p>4. Then practice that topic on compiler like VS Code.</p>
