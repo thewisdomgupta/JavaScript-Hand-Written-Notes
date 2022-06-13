@@ -1,5 +1,7 @@
 # JavaScript-Hand-Written-Notes
 <p>How to use this Notes?</p>
+<p>This was my Self Preparation Notes I had no Idea during creating of this notes that I will share with other but you can see now I am sharing 😌</p>
+
 
 <br>
 <table>
