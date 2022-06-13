@@ -142,4 +142,112 @@
     <td>30.</td>
     <td>Access Object by DOT, Bracket Notation</td>
   </tr>
+  <tr>
+    <td>31.</td>
+    <td>Computed Properties</td>
+  </tr>
+  <tr>
+    <td>32.</td>
+    <td>Spread Operator</td>
+  </tr>
+  <tr>
+    <td>33.</td>
+    <td>Object Destructuring</td>
+  </tr>
+  <tr>
+    <td>34.</td>
+    <td>How to use Object Inside Array</td>
+  </tr>
+  <tr>
+    <td>35.</td>
+    <td>Nested Destructuring</td>
+  </tr>
+  <tr>
+    <td>36.</td>
+    <td>Intro of Function</td>
+  </tr>
+  <tr>
+    <td>37.</td>
+    <td>Function Expression</td>
+  </tr>
+  <tr>
+    <td>38.</td>
+    <td>Arrow Function</td>
+  </tr>
+  <tr>
+    <td>39.</td>
+    <td>Hoisting</td>
+  </tr>
+  <tr>
+    <td>40.</td>
+    <td>Nested Function</td>
+  </tr>
+  <tr>
+    <td>41.</td>
+    <td>Block Scope v/s Function Scope</td>
+  </tr>
+  <tr>
+    <td>42.</td>
+    <td>Intro on Default Parameter</td>
+  </tr>
+  <tr>
+    <td>43.</td>
+    <td>Intro on Rest Parameter</td>
+  </tr>
+   <tr>
+    <td>44.</td>
+    <td>How to Destructure Parameter</td>
+  </tr>
+   <tr>
+    <td>45.</td>
+    <td>Callback Function</td>
+  </tr>
+  <tr>
+    <td>46.</td>
+    <td>Function Returning Function</td>
+  </tr>
+  <tr>
+    <td>47.</td>
+    <td>Some Array Method - For Each</td>
+  </tr>
+  <tr>
+    <td>48.</td>
+    <td>Map Method</td>
+  </tr>
+  <tr>
+    <td>49.</td>
+    <td>Filter Method</td>
+  </tr>
+  <tr>
+    <td>50.</td>
+    <td>Reduce Method</td>
+  </tr>
+  <tr>
+    <td>51.</td>
+    <td>Sort Method</td>
+  </tr>
+  <tr>
+    <td>52.</td>
+    <td>Find Method</td>
+  </tr>
+  <tr>
+    <td>53.</td>
+    <td>Every Method</td>
+  </tr>
+  <tr>
+    <td>54.</td>
+    <td>Some Method</td>
+  </tr>
+  <tr>
+    <td>55.</td>
+    <td>Fill Method</td>
+  </tr>
+  <tr>
+    <td>55.</td>
+    <td>Splice Method</td>
+  </tr>
+  <tr>
+    <td>56.</td>
+    <td>Splice Method</td>
+  </tr>
   </table>
