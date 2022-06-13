@@ -1,5 +1,5 @@
 # JavaScript-Hand-Written-Notes
-<p># How to use this Notes?</p>
+# How to use this Notes?
 <p>1. This was my Self Prep Notes, I had no idea during creation of this notes that I'll share with other but you can see now I'm sharing 😀</p>
 <p>2. So Little bit manage with Writing - I already tested by sharing 10+ Person they are saying  "Vivek This notes is easy to understand".</p>
 <p>3. Read each & every topic thoroughly.</p>
